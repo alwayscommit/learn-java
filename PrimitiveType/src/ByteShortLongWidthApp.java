@@ -36,5 +36,7 @@ public class ByteShortLongWidthApp {
         //Doesn't give an error.
         //long myLongerInt = 2147483648;
         //Gives an error as max int is 2147483647
+
+        //byte < short < int < long
     }
 }
