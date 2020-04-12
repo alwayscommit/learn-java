@@ -1,6 +1,6 @@
 public class CastingAndChallenge {
 
-    public static void main(String[] args) {
+    public static void main(StringPlay[] args) {
 
         int intVar = Integer.MIN_VALUE / 2;
         int intDivision = intVar / 2; // works

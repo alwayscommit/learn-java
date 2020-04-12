@@ -1,6 +1,6 @@
 public class ByteShortLongWidthApp {
 
-    public static void main(String[] args) {
+    public static void main(StringPlay[] args) {
 
         //has a width of 8, occupies 8 bits
         byte minByteValue = Byte.MIN_VALUE;

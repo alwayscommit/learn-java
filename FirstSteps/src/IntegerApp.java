@@ -1,5 +1,5 @@
 public class IntegerApp {
-    public static void main(String[] args) {
+    public static void main(StringPlay[] args) {
 
         //width 32 bits
         int myValue = 10000;
